@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material3 Components theme — this module renders with XML Views + the
+         Material Components library (MaterialToolbar, Chip, TextInputLayout,
+         MaterialButton…), so it needs a Material3 theme, not a framework one. -->
+    <style name="Theme.PatternKitAndroidMvvmXml" parent="Theme.Material3.DayNight.NoActionBar" />
+</resources>
